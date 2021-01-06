@@ -31,3 +31,6 @@ navbar:
       menu:
         - text: "Uso de Zotero"
           href: 
+    - text: "FAQ"
+      href: faq.html
+  

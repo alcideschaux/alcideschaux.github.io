@@ -5,7 +5,7 @@ output:
         toc: false
 ---
 
-¡Te doy la bienvenida a mi sitio web! Aquí encontrarás cursos sobre metodología de la investigación y divulgación científica y podrás enterarte de las investigaciones que estoy llevando a cabo en el área de la biología molecular del cáncer. Mi CV completo se encuentra disponible <a href="https://cv.conacyt.gov.py/publicar/cv?id=63d1532994a1ea897e319a252cabad8b" target="_blank">aquí</a>. Un breve resumen se muestra a continuación.
+¡Te doy la bienvenida a mi sitio web! Aquí encontrarás [cursos sobre metodología de la investigación y divulgación científica](faq.html) y podrás enterarte de las investigaciones que estoy llevando a cabo en el área de la biología molecular del cáncer. Mi CV completo se encuentra disponible <a href="https://cv.conacyt.gov.py/publicar/cv?id=63d1532994a1ea897e319a252cabad8b" target="_blank">aquí</a>. Un breve resumen se muestra a continuación.
 
 ***
 
