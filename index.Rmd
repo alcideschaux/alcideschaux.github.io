@@ -1,0 +1,41 @@
+---
+title: "CHAUX, M.D."
+output:
+    html_document:
+        toc: false
+---
+
+¡Te doy la bienvenida a mi sitio web! Aquí encontrarás cursos sobre metodología de la investigación y divulgación científica y podrás enterarte de las investigaciones que estoy llevando a cabo en el área de la biología molecular del cáncer. Mi CV completo se encuentra disponible <a href="https://cv.conacyt.gov.py/publicar/cv?id=63d1532994a1ea897e319a252cabad8b" target="_blank">aquí</a>. Un breve resumen se muestra a continuación.
+
+***
+
+## Formación académica
+- Doctor en Medicina y Cirugía, Facultad de Ciencias Médicas, Universidad Nacional de Asunción, Asunción
+- Especialista en Anatomía Patológica, Facultad de Ciencias Médicas, Universidad Nacional de Asunción, Asunción
+- Especialista en Docencia Superior Universitaria, Facultad de Estudios de Postgrado, Universidad del Norte, Asunción
+- Especialista en Ciencia de Datos Ejecutiva, Bloomberg School of Public Health, Johns Hopkins University, Baltimore, MD
+- Especialista en Análisis Genómico de Datos, School of Public Health, Harvard University, Boston, MA
+- Especialista en Análisis Estadístico con R para Salud Pública, Department of Public Health, Imperial College London
+- Especialista en Ciencia de Datos Aplicada con Python, IBM Corporation
+- Especialista en Bioética Aplicada al Campo Clínico y Experimental, Universidad Europea del Atlántico, España
+
+***
+
+## Experiencia profesional
+- Ex-Research Fellow, Johns Hopkins Medical Institutions, Baltimore, MD
+- Investigador categorizado del Programa Nacional de Incentivo a Investigadores (PRONII) del Consejo Nacional de Ciencia y Tecnología (CONACYT) de la República del Paraguay
+- Evaluador Experto del Programa Horizon 2020, Comisión Europea, Bruselas
+- Par Revisor de revistas científicas internacionales indexadas de Nature, Springer, Elsevier y Wiley
+- Miembro del Comité de Expertos de la Internacional Collaboration on Cancer Reporting (ICCR)
+- Premio Nidia Sanabria de Romero (2017) de Investigación Científica y Tecnológica
+- Autor de más de <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Alcides+Chaux&sort=date" target="_blank">90 artículos científicos</a> en revistas internacionales indexadas del alto impacto (PubMed)
+- Evaluador del Programa Nacional de Becas de Postgrado en el Exterior “Don Carlos Antonio López” (BECAL) de la Presidencia de la República del Paraguay
+- Director de Investigación y Divulgación Científica, Universidad del Norte
+- Director de Tesis de Maestrías, Facultad de Estudios de Posgrado, Universidad del Norte
+- Editor-en-Jefe de la Revista UniNorte de Medicina y Ciencias de la Salud
+- Editor asociado de Frontiers in Oncology - Genitourinary
+
+***
+
+## Asesoría
+Si estás necesitando de asesoría para el diseño de protocolos y anteproyectos, redacción de tesis o memorias, o análisis de datos e interpretación de resultados, puedes enviarme un correo a alcideschaux@icloud.com, y con gusto agendaremos una reunión para discutir los detalles de la asesoría. Mi portafolio de proyectos y análisis de datos (tanto en R como en Python) está disponible en mi página de GitHub en https://github.com/alcideschaux/.

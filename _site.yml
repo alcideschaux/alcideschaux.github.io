@@ -1,0 +1,33 @@
+name: "CHAUX"
+output_dir: "."
+
+output:
+  html_document:
+    theme: "united"
+    toc: false
+    includes:
+      after_body: include_footer.html
+
+navbar:
+  title: "CHAUX, M.D."
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Mis investigaciones"
+      menu:
+        - text: "Artículos científicos"
+          href: articles.html
+    - text: "Cursos largos"
+      menu:
+        - text: "Metodología general de la investigación"
+          href: 
+    - text: "Cursos cortos"
+      menu:
+        - text: "Fundamentos de metodología"
+          href:
+        - text: "El rol de las hipótesis"
+          href:
+    - text: "Masterclasses"
+      menu:
+        - text: "Uso de Zotero"
+          href: 
