@@ -20,7 +20,7 @@ navbar:
     - text: "Cursos largos"
       menu:
         - text: "Metodología general de la investigación"
-          href: 
+          href: https://alcideschaux.github.io/metodologia-general/
     - text: "Cursos cortos"
       menu:
         - text: "Fundamentos de metodología"
