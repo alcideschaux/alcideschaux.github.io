@@ -24,7 +24,7 @@ navbar:
     - text: "Cursos cortos"
       menu:
         - text: "Fundamentos de metodología"
-          href:
+          href: https://alcideschaux.github.io/fundamentos-metodologia/
         - text: "El rol de las hipótesis"
           href:
     - text: "Masterclasses"
