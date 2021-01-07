@@ -5,7 +5,7 @@ output:
         toc: false
 ---
 
-¡Te doy la bienvenida a mi sitio web! Aquí encontrarás [cursos sobre metodología de la investigación y divulgación científica](faq.html) y podrás enterarte de las investigaciones que estoy llevando a cabo en el área de la biología molecular del cáncer. Mi CV completo se encuentra disponible <a href="https://cv.conacyt.gov.py/publicar/cv?id=63d1532994a1ea897e319a252cabad8b" target="_blank">aquí</a>. Un breve resumen se muestra a continuación.
+¡Te doy la bienvenida a mi sitio web! Yo soy el Dr. Alcides Chaux. Aquí encontrarás [cursos sobre metodología de la investigación y divulgación científica](faq.html) y podrás enterarte de las investigaciones que estoy llevando a cabo en el área de la biología molecular del cáncer. Mi CV completo se encuentra disponible [aquí](https://cv.conacyt.gov.py/publicar/cv?id=63d1532994a1ea897e319a252cabad8b). Un breve resumen se muestra a continuación.
 
 ***
 
@@ -24,16 +24,16 @@ output:
 ## Experiencia profesional
 - Ex-Research Fellow, Johns Hopkins Medical Institutions, Baltimore, MD
 - Investigador categorizado del Programa Nacional de Incentivo a Investigadores (PRONII) del Consejo Nacional de Ciencia y Tecnología (CONACYT) de la República del Paraguay
-- Evaluador Experto del Programa Horizon 2020, Comisión Europea, Bruselas
-- Par Revisor de revistas científicas internacionales indexadas de Nature, Springer, Elsevier y Wiley
-- Miembro del Comité de Expertos de la Internacional Collaboration on Cancer Reporting (ICCR)
+- [Evaluador Experto](https://www.lanacion.com.py/pais/2020/07/31/paraguayo-formara-parte-de-horizon-2020-el-mayor-programa-de-investigacion-cientifica-de-la-ue/) del Programa Horizon2020, Comisión Europea, Bruselas
+- [Par Revisor](https://publons.com/researcher/638865/alcides-chaux/) de revistas científicas internacionales indexadas de Nature, Springer, Elsevier y Wiley
+- Miembro del [Comité de Expertos](http://www.iccr-cancer.org/datasets/published-datasets/urinary-male-genital/penis) de la Internacional Collaboration on Cancer Reporting (ICCR)
 - Premio Nidia Sanabria de Romero (2017) de Investigación Científica y Tecnológica
-- Autor de más de <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Alcides+Chaux&sort=date" target="_blank">90 artículos científicos</a> en revistas internacionales indexadas del alto impacto (PubMed)
+- Autor de más de [90 artículos científicos](https://pubmed.ncbi.nlm.nih.gov/?term=Alcides+Chaux&sort=date) en revistas internacionales indexadas del alto impacto (PubMed)
 - Evaluador del Programa Nacional de Becas de Postgrado en el Exterior “Don Carlos Antonio López” (BECAL) de la Presidencia de la República del Paraguay
-- Director de Investigación y Divulgación Científica, Universidad del Norte
+- [Director](http://investigacion.uninorte.edu.py/pagina-ejemplo/dr-alcides-chaux/) de Investigación y Divulgación Científica, Universidad del Norte
 - Director de Tesis de Maestrías, Facultad de Estudios de Posgrado, Universidad del Norte
-- Editor-en-Jefe de la Revista UniNorte de Medicina y Ciencias de la Salud
-- Editor asociado de Frontiers in Oncology - Genitourinary
+- [Editor-en-Jefe](http://investigacion.uninorte.edu.py/rev-un-med/) de la Revista UniNorte de Medicina y Ciencias de la Salud
+- [Editor asociado](https://www.frontiersin.org/journals/oncology/sections/genitourinary-oncology#editorial-board) de Frontiers in Oncology - Genitourinary
 
 ***
 
