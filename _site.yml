@@ -17,8 +17,10 @@ navbar:
       menu:
         - text: "Artículos científicos"
           href: articles.html
-    - text: "Cursos largos"
+    - text: "Cursos"
       menu:
+        - text: "Metodología básica de la investigación"
+          href: https://alcideschaux.github.io/metodologia-basica/
         - text: "Metodología general de la investigación"
           href: https://alcideschaux.github.io/metodologia-general/
         - text: "Diseños de investigación cuantitativa"
@@ -29,12 +31,6 @@ navbar:
           href:
         - text: "Redacción de la tesis"
           href:
-    - text: "Cursos cortos"
-      menu:
-        - text: "Fundamentos de metodología"
-          href: https://alcideschaux.github.io/fundamentos-metodologia/
-        - text: "El rol de las hipótesis"
-          href: https://alcideschaux.github.io/rol-hipotesis/
     - text: "Masterclasses"
       menu:
         - text: "Uso de Zotero"
