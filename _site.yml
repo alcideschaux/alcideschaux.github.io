@@ -23,13 +23,13 @@ navbar:
           href: https://alcideschaux.github.io/metodologia-basica/
         - text: "Metodología general de la investigación"
           href: https://alcideschaux.github.io/metodologia-general/
+        - text: "La redacción científica"
+          href: https://alcideschaux.github.io/redaccion-cientifica/
         - text: "Diseños de investigación cuantitativa"
           href:
         - text: "Diseños de investigación cualitativa"
           href: 
-        - text: "Redacción de reportes de investigación"
-          href:
-        - text: "Redacción de la tesis"
+        - text: "La redacción de la tesis"
           href:
     - text: "Masterclasses"
       menu:
