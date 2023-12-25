@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-categories','listing-author','listing-date','listing-reading-time','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
@@ -209,6 +209,27 @@ cookieconsent.run({
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Ordenar por</option>
+       <option value="index" data-direction="asc">Por defecto</option>
+         <option value="listing-title" data-direction="asc">
+          Título
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Fecha - Menos reciente
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Fecha - Más reciente
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Autor/a
+        </option>
+     </select>
+  </div>
+</div>
 <div class="list quarto-listing-default">
 <div class="quarto-post image-right" data-index="0" data-categories="Investigación en Acción" data-listing-date-sort="1703300400000" data-listing-file-modified-sort="1703513038882" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10">
 <div class="thumbnail">
@@ -241,6 +262,9 @@ Hoy, desafiaremos algunas de las ideas más arraigadas y persistentes sobre la�
 </div>
 <div class="listing-author">
 Alcides Chaux
+</div>
+<div class="listing-reading-time">
+10 minutos
 </div>
 </a>
 </div>
@@ -277,6 +301,9 @@ En este tercer artículo de nuestra serie sobre la crisis en la educación unive
 <div class="listing-author">
 Alcides Chaux
 </div>
+<div class="listing-reading-time">
+11 minutos
+</div>
 </a>
 </div>
 </div>
@@ -311,6 +338,9 @@ En esta segunda entrega de nuestra serie enfocada en identificar y corregir erro
 </div>
 <div class="listing-author">
 Alcides Chaux
+</div>
+<div class="listing-reading-time">
+15 minutos
 </div>
 </a>
 </div>
@@ -347,6 +377,9 @@ En el primer artículo de esta serie, iniciamos un análisis crítico sobre los 
 <div class="listing-author">
 Alcides Chaux
 </div>
+<div class="listing-reading-time">
+11 minutos
+</div>
 </a>
 </div>
 </div>
@@ -381,6 +414,9 @@ En el contexto actual, marcado por avances vertiginosos en ciencia y tecnología
 </div>
 <div class="listing-author">
 Alcides Chaux
+</div>
+<div class="listing-reading-time">
+10 minutos
 </div>
 </a>
 </div>
@@ -417,6 +453,9 @@ Investigación en Acción
 <div class="listing-author">
 Alcides Chaux
 </div>
+<div class="listing-reading-time">
+7 minutos
+</div>
 </a>
 </div>
 </div>
@@ -452,6 +491,9 @@ En mi trayectoria como evaluador y asesor en la redacción de tesis, he tenido l
 <div class="listing-author">
 Alcides Chaux
 </div>
+<div class="listing-reading-time">
+12 minutos
+</div>
 </a>
 </div>
 </div>
@@ -486,6 +528,9 @@ Al observar el mundo que nos rodea, nos encontramos inmersos en la fascinante y 
 </div>
 <div class="listing-author">
 Alcides Chaux
+</div>
+<div class="listing-reading-time">
+8 minutos
 </div>
 </a>
 </div>
