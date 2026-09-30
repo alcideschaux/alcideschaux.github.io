@@ -1,1 +1,1 @@
-Sitemap: https://www.alcideschaux.com/sitemap.xml
+Sitemap: https://alcideschaux.github.io/sitemap.xml
